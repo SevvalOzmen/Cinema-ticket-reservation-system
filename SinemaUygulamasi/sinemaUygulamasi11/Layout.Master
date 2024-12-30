@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="sinemaUygulamasi11.Layout" %>
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <style type="text/css">
+        .auto-style1 {
+            left: 78px;
+            top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse">
+        <button type="button" class="btn btn-dark navbar-btn" onclick="window.location.href='BiletOlustur.aspx';" aria-selected="undefined">Bilet Al</button>
+
+            </div>
+            &nbsp;
+        
+
+            <ul class="nav navbar-nav">
+                <li ><a href="#">Ana Sayfa</a></li>
+                
+            </ul>
+            <ul class="nav navbar-nav navbar-right">
+                <li> <button type="button" class="btn btn-dark navbar-btn" onclick="window.location.href='Kayit.aspx';" aria-selected="undefined">Admin Kayıt</button> 
+                    <button type="button" class="btn btn-dark navbar-btn" onclick="window.location.href='Giris.aspx';" aria-selected="undefined">Admin Giriş</button></li>
+               <li class="auto-style1"> </li>
+            </ul>
+        </div>
+    </nav>
+
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        <div class="container">
+        </div>
+
+    </asp:ContentPlaceHolder>
+
+</body>
+</html>

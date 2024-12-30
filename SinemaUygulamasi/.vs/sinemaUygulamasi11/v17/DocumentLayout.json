@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|c:\\users\\sevva\\desktop\\\u015Fevvalnur\u00F6zmen-\u0130remad\u0131g\u00FCzel\\sinemauygulamasi\\sinemauygulamasi11\\filmsil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|solutionrelative:sinemauygulamasi11\\filmsil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|c:\\users\\sevva\\desktop\\\u015Fevvalnur\u00F6zmen-\u0130remad\u0131g\u00FCzel\\sinemauygulamasi\\sinemauygulamasi11\\adminsayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|solutionrelative:sinemauygulamasi11\\adminsayfa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemauygulamasi11\\classes\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|solutionrelative:sinemauygulamasi11\\classes\\sqlconnectionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemauygulamasi11\\filmsil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{B05D64E3-27D1-41A3-960A-2AFB4A570DBF}|sinemaUygulamasi11\\sinemaUygulamasi11.csproj|solutionrelative:sinemauygulamasi11\\filmsil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminSayfa.aspx",
+              "DocumentMoniker": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\AdminSayfa.aspx",
+              "RelativeDocumentMoniker": "sinemaUygulamasi11\\AdminSayfa.aspx",
+              "ToolTip": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\AdminSayfa.aspx",
+              "RelativeToolTip": "sinemaUygulamasi11\\AdminSayfa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-30T07:20:34.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FilmSil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\FilmSil.aspx.cs",
+              "RelativeDocumentMoniker": "sinemaUygulamasi11\\FilmSil.aspx.cs",
+              "ToolTip": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\FilmSil.aspx.cs",
+              "RelativeToolTip": "sinemaUygulamasi11\\FilmSil.aspx.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:16:27.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlConnectionClass.cs",
+              "DocumentMoniker": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\Classes\\SqlConnectionClass.cs",
+              "RelativeDocumentMoniker": "sinemaUygulamasi11\\Classes\\SqlConnectionClass.cs",
+              "ToolTip": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\Classes\\SqlConnectionClass.cs",
+              "RelativeToolTip": "sinemaUygulamasi11\\Classes\\SqlConnectionClass.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T07:16:02.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilmSil.aspx",
+              "DocumentMoniker": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\FilmSil.aspx",
+              "RelativeDocumentMoniker": "sinemaUygulamasi11\\FilmSil.aspx",
+              "ToolTip": "C:\\Users\\sevva\\Desktop\\\u015EevvalNur\u00D6zmen-\u0130remAd\u0131g\u00FCzel\\SinemaUygulamasi\\sinemaUygulamasi11\\FilmSil.aspx",
+              "RelativeToolTip": "sinemaUygulamasi11\\FilmSil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-30T07:15:30.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
